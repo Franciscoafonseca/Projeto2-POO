@@ -1,0 +1,50 @@
+(Inglaterra)
+Premier League
+Manchester City
+Manchester United
+Arsenal
+Totenham Hotspur
+Liverpool
+Newcastle
+Chelsea
+//Brighton
+(Alemanha)
+Bundesliga
+Bayern Munich
+Bayer Leverkusen
+Borussia Dortmund
+RB Leipzig
+Eintracht Frankfurt
+VfB Stuttgart
+TSG Hoffenheim
+//SC Freiburg
+//(Espanha)
+//La Liga Santander
+//Girona
+//Real Madrid
+//Barcelona
+//Atlético Madrid
+//Real Sociedad
+//Sevilla
+//Athletic Club
+//Real Betis
+//(Italia)
+//Serie A
+//Inter Milan
+//Juventus
+//AC Milan
+//Napoli
+//Atalanta
+//Fiorentina
+//Roma
+//Lazio
+//(Portugal)
+//Liga Portugal
+//Benfica
+//Sporting
+//Porto
+//Braga
+//Moreirense
+//Vitória
+//Famalicão
+//Boavista

@@ -1,0 +1,48 @@
+Mourinho
+50
+Ofensivo
+Jorge Jesus
+64
+Defensivo
+Josep Guardiola
+52
+Ofensivo
+Erik ten Hag
+53
+Defensivo
+Mikel Arteta
+41
+Defensivo
+Ange Postecoglou
+58
+Ofensivo
+Jurgen Klopp
+56
+Ofensivo
+Eddie Howe
+46
+Defensivo
+Mauricio Pochettino
+51
+Defensivo
+Thomas Tuchel
+50
+Ofensivo
+Xabi Alonso
+42
+Ofensivo
+Edin Terzic
+43
+Defensivo
+Marco Rose
+47
+Ofensivo
+Dino Toppmoller
+43
+Ofensivo
+Sebastian Hoeneß
+41
+Defensivo
+Pellegrino Matarazzo
+46
+Ofensivo

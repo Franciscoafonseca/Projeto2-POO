@@ -1,0 +1,67 @@
+Ederson Moraes  //nome(primeiro e ultimo ou entao os mais conhecidos )
+31 //numero de fardamento
+Guarda-Redes //posicao
+29 //idade
+5 //agressividade
+7 //estatistica de desempenho
+3 //numero de lesoes
+Kyle Walker
+2
+Lateral-Direito
+33
+6
+3
+Ruben Dias
+3
+Defesa-Central 
+26
+8
+2
+John Stones
+5
+Defesa-Central 
+29
+7
+0
+Josko Gvardiol
+24
+Lateral-Esquerdo
+21
+6
+8
+Rodrigo Hernandez
+16
+Medio-Centro 
+27
+7
+0
+Bernardo Silva 
+20
+Medio-Centro
+28
+6
+2
+Julian Alvarez 
+19
+Medio-Ofensivo
+23
+7
+4
+Philip Foden 
+47
+Extremo-Direito
+23
+4
+7
+Erling Haaland 
+9
+Avancado 
+22
+9
+1
+Jack Grealish
+10
+Extremo-Esquerdo 
+27
+4
+5

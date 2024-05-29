@@ -1,0 +1,1129 @@
+//equipa 
+//estadio
+//nome(primeiro e ultimo ou entao os mais conhecidos )
+//numero de fardamento
+//posicao
+//posicao_interna (Atacante,Médio,Defesa,GR)
+//idade
+//agressividade
+//estatistica de desempenho
+Manchester City
+Etihad Stadium
+Ederson Moraes
+31
+Guarda-Redes
+GR
+29
+4
+88
+Kyle Walker
+2
+Lateral-Direito
+Defesa
+33
+7
+84
+Ruben Dias
+3
+Defesa Central
+Defesa
+26
+9
+89
+John Stones
+5
+Defesa Central
+Defesa
+29
+5
+85
+Josko Gvardiol
+24
+Lateral-Esquerdo
+Defesa
+21
+6
+82
+Rodrigo Hernandez
+16
+Medio
+Medio
+27
+10
+89
+Bernardo Silva
+20
+Medio
+Medio
+28
+7
+88
+Julian Alvarez
+19
+Medio
+Medio
+23
+7
+81
+Philip Foden
+47
+Extremo-Direito
+Atacante
+23
+5
+85
+Erling Haaland
+9
+Avancado
+Atacante
+22
+4
+91
+Jack Grealish
+10
+Extremo-Esquerdo
+Atacante
+27
+5
+85
+Josep Guardiola
+Manchester United
+Old Trafford
+Andre Onana
+24
+Guarda-Redes
+GR
+27
+2
+85
+Wan-Bissaka
+29
+Lateral-Direito
+Defesa
+25
+6
+80
+Harry Maguire
+5
+Defesa Central
+Defesa
+30
+5
+81
+Jonathan Evans
+35
+Defesa Central
+Defesa
+35
+7
+75
+Diogo Dalot
+20
+Lateral-Esquerdo
+Defesa
+24
+6
+79
+Carlos Casimiro
+18
+Medio
+Medio
+31
+7
+88
+Sofyan Amrabat
+4
+Medio
+Medio
+26
+9
+79
+Bruno Fernandes
+8
+Medio
+Medio
+28
+7
+89
+Antony Matheus
+21
+Extremo-Direito
+Atacante
+23
+9
+80
+Rasmus Hojlund
+11
+Avancado
+Atacante
+20
+3
+77
+Marcus Rashford
+10
+Extremo-Esquerdo
+Atacante
+25
+7
+84
+Erik ten Hag
+Arsenal
+Emirates Stadium
+David Raya
+22
+Guarda-Redes
+GR
+27
+5
+80
+Benjamin White
+4
+Lateral Direito
+Defesa
+25
+7
+81
+Gabriel Saliba
+2
+Defesa Central
+Defesa
+22
+8
+84
+Gabriel dos Santos
+6
+Defesa Central
+Defesa
+25
+8
+84
+Oleksandr Zinchenko
+35
+Lateral Esquerdo
+Defesa
+7
+7
+81
+Declan Rice
+41
+Medio
+Medio
+24
+9
+85
+Martin Odegaard
+8
+Medio
+Medio
+24
+8
+88
+Kai Havertz
+29
+Medio
+Medio
+24
+8
+82
+Bukayo Saka
+7
+Extremo-Direito
+Atacante
+21
+9
+86
+Gabriel Jesus
+9
+Avancado
+Atacante
+26
+7
+84
+Gabriel Martinelli
+11
+Extremo-Esquerdo
+Atacante
+22
+6
+84
+Mikel Arteta
+Totenham Hotspur
+Tottenham Hotspur Stadium
+Guglielmo Vicario
+13
+Guarda-Redes
+GR
+26
+4
+84
+Pedro Porro
+23
+Lateral Direito
+Defesa
+23
+6
+83
+Christian Romero
+17
+Defesa Central
+Defesa
+25
+5
+84
+Mickey Van de Ven
+37
+Defesa Central
+Defesa
+22
+9
+79
+Destiny Udogie
+38
+Lateral-Esquerdo
+Defesa
+20
+7
+79
+Yves Bissouma
+8
+Medio
+Medio
+26
+7
+80
+Giovanni Lo Celso
+18
+Medio
+Medio 
+27
+6
+81
+James Maddison
+10
+Medio
+Medio
+26
+7
+88
+Dejan Kulusevski
+21
+Extremo-Direito
+Atacante
+23
+8
+82
+Son Heung-min
+7
+Avancado
+Atacante
+30
+8
+87
+Price Johnson
+22
+Extremo-Esquerdo
+Atacante
+22
+6
+76
+Ange Postecoglou
+Liverpool
+Anfield
+Alisson Becker
+1
+Guarda-Redes
+GR
+30
+2
+89
+Trent Alexander-Arnold
+66
+Lateral-Direito
+Defesa
+24
+7
+86
+Ibrahima Konate
+5
+Defesa Central
+Defesa
+24
+8
+81
+Virgil van Dijk
+4
+Defesa Central
+Defesa
+31
+10
+89
+Andrew Robertson
+26
+Lateral-Esquerdo
+Defesa
+29
+8
+86
+Alexis Mac Allister
+10
+Medio
+Medio
+24
+7
+82
+Ryan Gravenberch
+38
+Medio
+Medio
+21
+8
+80
+Dominik Szoboszlai
+8
+Medio
+Medio
+22
+6
+85
+Mohamed Salah
+9
+Extremo Esquerdo
+Atacante
+31
+7
+89
+Darwin Núñez
+9
+Avancado
+Atacante
+24
+8
+83
+Luis Díaz
+7
+Extremo Direito
+Atacante
+26
+8
+84
+Jurgen Klopp
+Newcastle
+St. James' Park
+Martin Dúbravka
+1
+Guarda-Redes
+GR
+34
+7
+80
+Kieran Trippier
+2
+Lateral Direito
+Defesa
+32
+6
+85
+Jamaal Lascelles
+6
+Defesa Central
+Defesa
+29
+8
+80
+Fabian Schär
+5
+Defesa Central
+Defesa
+31
+8
+83
+Dan Burn
+5
+Lateral Esquerdo
+Defesa
+31
+8
+79
+Bruno Guimarães
+39
+Medio
+Medio
+25
+5
+85
+Joelinton de Lira
+7
+Medio
+Medio
+26
+7
+83
+Sean Longstaff
+36
+Medio
+Medio
+25
+6
+80
+Harvey Barnes
+15
+Extremo Esquerdo
+Atacante
+25
+7
+81
+Callum Wilson
+9
+Avancado
+Atacante
+31
+8
+82
+Alexander Isak
+14
+Extremo Esquerdo
+Atacante
+23
+7
+82
+Eddie Howe
+Chelsea
+Stanford Bridge
+Robert Sánchez
+1
+Guarda-Redes
+GR
+25
+5
+79
+Reece James
+24
+Lateral Direito
+Defesa
+23
+7
+83
+Thiago Silva
+6
+Defesa Central
+Defesa
+38
+9
+84
+Wesley Fofana
+4
+Defesa Central
+Defesa
+22
+6
+80
+Marc Cucurella 
+3
+Lateral Esquerdo
+Defesa
+24
+7
+78
+Moisés Caicedo 
+25
+Medio
+Medio
+21
+8
+80
+Enzo Fernández
+8
+Medio
+Medio
+22
+7
+81
+Christopher Nkunku
+18
+Medio
+Medio
+25
+7
+87
+Mykhailo Mudryk
+10
+Extremo Esquerdo
+Atacante
+22
+8
+75
+Nicolas Jackson
+15
+Avancado
+Atacante
+22
+7
+77
+Raheem Sterling
+7
+Extremo Direito
+Atacante
+28
+6
+83
+Mauricio Pochettino
+Bayern Munich
+Allianz Arena
+Manuel Neuer
+1
+Guarda-Redes
+GR
+35
+5
+90
+Benjamin Pavard
+5
+Lateral-Direito
+Defesa
+26
+8
+85
+Dayot Upamecano
+23
+Defesa Central
+Defesa
+23
+9
+87
+Niklas Sule
+4
+Defesa Central
+Defesa
+26
+7
+86
+Alphonso Davies
+19
+Lateral-Esquerdo
+Defesa
+21
+8
+88
+Joshua Kimmich
+6
+Médio
+Médio
+27
+10
+91
+Leon Goretzka
+18
+Médio
+Médio
+27
+9
+88
+Thomas Muller
+25
+Médio
+Médio
+32
+8
+89
+Leroy Sane
+10
+Extremo-Direito
+Atacante
+26
+7
+87
+Robert Lewandowski
+9
+Avançado
+Atacante
+33
+6
+92
+Kingsley Coman
+29
+Extremo-Esquerdo
+Atacante
+26
+8
+86
+Thomas Tuchel
+Bayer Leverkusen
+BayArena
+Lukas Hradecky
+1
+Guarda-Redes
+GR
+32
+6
+87
+Mitchell Weiser
+23
+Lateral-Direito
+Defesa
+27
+8
+82
+Jonathan Tah
+4
+Defesa Central
+Defesa
+26
+10
+86
+Sven Bender
+5
+Defesa Central
+Defesa
+33
+9
+85
+Wendell
+18
+Lateral-Esquerdo
+Defesa
+29
+7
+83
+Charles Aranguiz
+20
+Medio
+Medio
+33
+8
+86
+Florian Wirtz
+10
+Medio
+Medio
+18
+7
+84
+Nadiem Amiri
+11
+Medio
+Medio
+25
+6
+82
+Moussa Diaby
+7
+Extremo-Direito
+Atacante
+22
+9
+87
+Patrik Schick
+14
+Avancado
+Atacante
+26
+8
+88
+Karim Bellarabi
+38
+Extremo-Esquerdo
+Atacante
+31
+7
+83
+Xabi Alonso
+Borussia Dortmund
+Signal Iduna Park
+Roman Bürki
+1
+Guarda-Redes
+GR
+31
+6
+86
+Thomas Meunier
+24
+Lateral-Direito
+Defesa
+30
+8
+83
+Mats Hummels
+15
+Defesa Central
+Defesa
+33
+9
+88
+Manuel Akanji
+16
+Defesa Central
+Defesa
+26
+8
+85
+Raphael Guerreiro
+13
+Lateral-Esquerdo
+Defesa
+28
+7
+84
+Axel Witsel
+28
+Medio
+Medio
+32
+7
+87
+Jude Bellingham
+22
+Medio
+Medio
+18
+9
+85
+Giovanni Reyna
+7
+Medio
+Medio
+19
+8
+86
+Jadon Sancho
+25
+Extremo-Direito
+Atacante
+21
+9
+88
+Erling Haaland
+9
+Avancado
+Atacante
+22
+10
+90
+Marco Reus
+11
+Extremo-Esquerdo
+Atacante
+32
+8
+87
+Edin Terzic
+RB Leipzig
+Red Bull Arena
+Peter Gulácsi
+1
+Guarda-Redes
+GR
+31
+7
+87
+Nordi Mukiele
+22
+Lateral-Direito
+Defesa
+24
+8
+83
+Ibrahima Konaté
+6
+Defesa Central
+Defesa
+22
+9
+85
+Dayot Upamecano
+5
+Defesa Central
+Defesa
+23
+9
+86
+Angelino
+3
+Lateral-Esquerdo
+Defesa
+25
+7
+84
+Marcel Sabitzer
+7
+Medio
+Medio
+27
+8
+86
+Tyler Adams
+14
+Medio
+Medio
+22
+9
+84
+Christopher Nkunku
+17
+Medio
+Medio
+24
+9
+87
+Dani Olmo
+25
+Extremo-Direito
+Atacante
+23
+8
+85
+Andrej Kramaric
+27
+Avancado
+Atacante
+30
+7
+88
+Dominik Szoboszlai
+19
+Extremo-Esquerdo
+Atacante
+21
+8
+86
+Marco Rose
+Eintracht Frankfurt
+Deutsche Bank Park
+Kevin Trapp
+1
+Guarda-Redes
+GR
+31
+6
+85
+Erik Durm
+24
+Lateral-Direito
+Defesa
+29
+7
+82
+Tuta
+2
+Defesa Central
+Defesa
+22
+8
+83
+Martin Hinteregger
+13
+Defesa Central
+Defesa
+29
+9
+86
+Filip Kostić
+10
+Lateral-Esquerdo
+Defesa
+29
+8
+84
+Djibril Sow
+8
+Medio
+Medio
+24
+7
+83
+Daichi Kamada
+15
+Medio
+Medio
+25
+8
+85
+Stefan Ilsanker
+30
+Medio
+Medio
+32
+9
+82
+Filip Kostić
+10
+Extremo-Direito
+Atacante
+29
+8
+86
+André Silva
+33
+Avancado
+Atacante
+26
+9
+88
+Filip Kostić
+10
+Extremo-Esquerdo
+Atacante
+29
+8
+84
+Dino Toppmoller
+VfB Stuttgart
+MHPArena
+Gregor Kobel
+1
+Guarda-Redes
+GR
+24
+7
+82
+Waldemar Anton
+5
+Lateral-Direito
+Defesa
+25
+8
+80
+Marc-Oliver Kempf
+2
+Defesa Central
+Defesa
+26
+7
+81
+Konstantinos Mavropanos
+16
+Defesa Central
+Defesa
+24
+8
+83
+Borna Sosa
+17
+Lateral-Esquerdo
+Defesa
+24
+7
+82
+Wataru Endo
+3
+Medio
+Medio
+28
+9
+84
+Orel Mangala
+23
+Medio
+Medio
+23
+8
+82
+Daniel Didavi
+10
+Medio
+Medio
+32
+7
+81
+Sasa Kalajdzic
+9
+Avancado
+Atacante
+24
+8
+85
+Nicolas Gonzalez
+22
+Avancado
+Atacante
+23
+9
+83
+Tanguy Coulibaly
+11
+Extremo-Esquerdo
+Atacante
+20
+8
+80
+Sebastian Hoeneß
+TSG Hoffenheim
+PreZero Arena
+Oliver Baumann
+1
+Guarda-Redes
+GR
+31
+6
+83
+Ryan Sessegnon
+3
+Lateral-Direito
+Defesa
+21
+8
+80
+Kevin Vogt
+22
+Defesa Central
+Defesa
+30
+8
+82
+Chris Richards
+4
+Defesa Central
+Defesa
+21
+7
+79
+Ismaila Sarr
+23
+Lateral-Esquerdo
+Defesa
+24
+8
+81
+Sebastian Rudy
+16
+Medio
+Medio
+31
+7
+83
+Diadie Samassekou
+8
+Medio
+Medio
+25
+8
+82
+Mu'nas Dabbur
+9
+Avancado
+Atacante
+29
+8
+84
+Andrej Kramaric
+27
+Avancado
+Atacante
+30
+9
+86
+Mijat Gacinovic
+11
+Extremo-Direito
+Atacante
+27
+7
+80
+Jacob Bruun Larsen
+18
+Extremo-Esquerdo
+Atacante
+23
+8
+81
+Pellegrino Matarazzo
